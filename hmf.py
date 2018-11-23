@@ -9,7 +9,6 @@ Halo mass function module
 
 import numpy
 from math import ceil
-import matplotlib.pyplot as plt
 
 """
 
@@ -102,6 +101,7 @@ def get_hmf(logMmin=10, logMmax=16, z=0, cumulative=False, box='small'):
 
 if __name__ == '__main__':
 	zlist = [0, 0.5, 1, 2, 3, 4.5, 6.2, 8, 10, 15]
+	import matplotlib.pyplot as plt
 	
 	for cumulative in False, True:
 		for z in zlist:
