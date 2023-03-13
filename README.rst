@@ -34,7 +34,6 @@ See also
 
 * http://roban.github.com/CosmoloPy/
 * http://halotools.readthedocs.io/
-* http://yt-project.org/   (removed its halo mass function module because of code rot)
+* http://yt-project.org/  (removed its halo mass function module because of code rot)
 * http://docs.astropy.org/en/stable/cosmology/
-
-
+* https://hmf.readthedocs.io/  (computes older approximations, many parameters)
