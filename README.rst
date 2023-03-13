@@ -5,6 +5,7 @@ Halo Mass Function in Python
 One would think that in 2018 there would be a python package that computes 
 the halo mass function at an arbitrary redshift.
 Well, there isn't.
+*(Update: also not in 2023)*
 
 This is a stupid replacement that plots them from large N-body simulations using a lookup table.
 
